@@ -113,7 +113,7 @@ interoperate with existing C# code? What features from Haskell that
 you may have seen in Functional Programming does F# support? What
 features, such as type providers, are unique to F#?
 
-Team: Team Het Nootje: Martijn Boom, Zino Onomiwo, Tim Zoet & Rik van Toor 
+Team: Martijn Boom, Zino Onomiwo, Tim Zoet & Rik van Toor 
 
 #### Scala and lightweight modular staging
 
