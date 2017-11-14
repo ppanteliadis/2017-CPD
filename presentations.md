@@ -70,10 +70,11 @@ What kind of language is Rust? What is the problem with aliasing? How
 does Rust's borrowing mechanism address this?
 
 Team:
-Tobias van Driessel
-Floris Schild
-Mats Veldhuizen
-Tom Freijsen
+Tobias van Driessel, 4087658
+Floris Schild, 3784169
+Mats Veldhuizen, 3971740
+Tom Freijsen, 4163427
+Ruben Schenkhuizen, 4115325
 
 #### Elm
 
