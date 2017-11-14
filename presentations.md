@@ -62,7 +62,7 @@ fairly straightforward to set up.
 What are *dependent types*? How can these be used to prove properties
 of your programs? 
 
-Team: ???
+Team: Xander, Kevin, Stefan, Luca, Zan
 
 #### Rust
 
