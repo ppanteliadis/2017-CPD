@@ -69,7 +69,8 @@ Team: ???
 What kind of language is Rust? What is the problem with aliasing? How
 does Rust's borrowing mechanism address this?
 
-Team: ???
+Team:
+Tobias van Driessel, Floris Schild, Mats Veldhuizen, Tom Freijsen, Ruben Schenkhuizen
 
 #### Elm
 
